@@ -1,3 +1,4 @@
 role,NetID,LastName,FirstName
 boss,xu568,Xu,Cynthia
 employee,jchang234,Chang,Jing
+employee,NetID,Fu,Yitong
